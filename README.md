@@ -2,7 +2,7 @@
 This repository contains code for plotting a 2D sine wave in 3D space.
 It is written in Python, using the matplotlib library.
 
-# Exercises
+## Exercises
 
 1. Change the code to plot cos(x), instead of sin(x).
 
@@ -10,4 +10,4 @@ It is written in Python, using the matplotlib library.
 
 3. Add another sine wave, perpendicular to one currently plotted.
 
-# Notes
+## Notes
